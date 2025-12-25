@@ -1,0 +1,10 @@
+---
+!ruby/object:PluginManager::Config
+name: Additional AI Levels
+authors:
+  - Aelysya
+version: 0.0.0
+deps: []
+retry_psdk_compatibility_after_plugin_load: false
+added_files:
+  - Data/configs/aail_config.json
